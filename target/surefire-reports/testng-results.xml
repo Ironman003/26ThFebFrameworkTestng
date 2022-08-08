@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-28T22:01:45 IST" name="Suite" finished-at="2022-06-28T22:01:49 IST" duration-ms="4706">
+    <groups>
+      <group name="sanity">
+        <method signature="loginTestCases.isLoginElementDisplayedTest()[pri:0, instance:TestCases.loginTestCases@66498326]" name="isLoginElementDisplayedTest" class="TestCases.loginTestCases"/>
+        <method signature="loginTestCases.isTitleDisplayedTest()[pri:0, instance:TestCases.loginTestCases@66498326]" name="isTitleDisplayedTest" class="TestCases.loginTestCases"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2022-06-28T22:01:45 IST" name="Test" finished-at="2022-06-28T22:01:49 IST" duration-ms="4706">
+      <class name="TestCases.loginTestCases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.loginTestCases@66498326]" started-at="2022-06-28T22:01:45 IST" name="setup" finished-at="2022-06-28T22:01:48 IST" duration-ms="3011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="isLoginElementDisplayedTest()[pri:0, instance:TestCases.loginTestCases@66498326]" started-at="2022-06-28T22:01:48 IST" name="isLoginElementDisplayedTest" finished-at="2022-06-28T22:01:48 IST" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isLoginElementDisplayedTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.loginTestCases@66498326]" started-at="2022-06-28T22:01:48 IST" name="setup" finished-at="2022-06-28T22:01:49 IST" duration-ms="1588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="exitBrowserInit()[pri:0, instance:TestCases.loginTestCases@66498326]" started-at="2022-06-28T22:01:48 IST" name="exitBrowserInit" finished-at="2022-06-28T22:01:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exitBrowserInit -->
+        <test-method is-config="true" signature="exitBrowserInit()[pri:0, instance:TestCases.loginTestCases@66498326]" started-at="2022-06-28T22:01:49 IST" name="exitBrowserInit" finished-at="2022-06-28T22:01:49 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exitBrowserInit -->
+        <test-method signature="isTitleDisplayedTest()[pri:0, instance:TestCases.loginTestCases@66498326]" started-at="2022-06-28T22:01:49 IST" name="isTitleDisplayedTest" finished-at="2022-06-28T22:01:49 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isTitleDisplayedTest -->
+      </class> <!-- TestCases.loginTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
